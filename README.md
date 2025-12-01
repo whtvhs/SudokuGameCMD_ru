@@ -37,7 +37,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-username/sudoku-command-game.git
+git clone https://github.com/whtvhs/SudokuGameCMD_ru/
 cd sudoku-command-game
 ```
 
