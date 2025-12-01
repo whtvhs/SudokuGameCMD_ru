@@ -38,7 +38,7 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/whtvhs/SudokuGameCMD_ru/
-cd sudoku-command-game
+cd SudokuGameCMD_ru
 ```
 
 2. (Опционально) Создайте виртуальное окружение:
